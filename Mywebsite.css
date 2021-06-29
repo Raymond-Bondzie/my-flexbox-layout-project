@@ -25,11 +25,12 @@
     list-style: none;
 }
 
-.nav li{
+.nav li {
 	display: inline;
 	color: white;
     padding-right: 15px;
     font-size: 18px;
+    
 }
 .nav a{
 	text-decoration: none;
